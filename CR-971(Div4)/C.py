@@ -1,3 +1,7 @@
+"""
+https://codeforces.com/contest/2009/problem/C
+"""
+
 import math
 import sys
 input=lambda:sys.stdin.readline().rstrip()
@@ -8,7 +12,7 @@ for _ in range(t):
     xx = math.ceil(x / k)
     yy = math.ceil(y / k)
 
-    # if x is greater than y, then we can skip one round of y
+    # if x is greater than y, then we can skip one round of y with more steps
     if xx > yy:
         print(2*xx - 1)
     else:

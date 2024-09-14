@@ -6,3 +6,7 @@
 ***
 # C. The Legend of Freya the Frog
 *Contest Link:* https://codeforces.com/contest/2009/problem/C
+***
+# D. Satyam and Counting 
+*Contest Link:* https://codeforces.com/contest/2009/problem/D
+***

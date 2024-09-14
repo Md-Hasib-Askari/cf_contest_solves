@@ -1,3 +1,7 @@
+"""
+https://codeforces.com/contest/2009/problem/D
+"""
+
 import sys
 input=lambda:sys.stdin.readline().rstrip()
 
